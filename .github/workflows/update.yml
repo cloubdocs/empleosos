@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  fetch-jobs:
+  update-jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Descargar repositorio
@@ -20,13 +20,13 @@ jobs:
         with:
           node-version: 20
 
-      - name: Actualizar JSON de empleos
+      - name: Actualizar empleos de los 19 países
         env:
           JOOBLE_API_KEY: ${{ secrets.JOOBLE_API_KEY }}
           JOB_KEYWORDS: "motorista cajero ventas auxiliar remoto"
-        run: node scripts/fetch-jobs.mjs
+        run: node scripts/fetch-jobs.js
 
-      - name: Publicar cambios
+      - name: Publicar JSON actualizado
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
