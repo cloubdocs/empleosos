@@ -1,12 +1,113 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Empleo SOS - LATAM</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Encuentra oportunidades de empleo en Latinoamérica.">
+	<title>Empleo SOS | Oportunidades cerca de ti</title>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="style.css">
 </head>
 <body>
-<h1>Empleo SOS 🚨</h1>
-<p>Buscador para toda LATAM - en construcción</p>
+	<header class="site-header">
+		<a class="brand" href="index.html" aria-label="Empleo SOS, inicio">
+			<span class="brand-mark" aria-hidden="true">SOS</span>
+			<span>Empleo <strong>SOS</strong></span>
+		</a>
+		<span class="header-note">Trabajo digno, oportunidades reales</span>
+	</header>
+
+	<main>
+		<section class="hero" aria-labelledby="hero-title">
+			<div class="hero-copy">
+				<p class="eyebrow">La red de empleo de Latinoamérica</p>
+				<h1 id="hero-title">Tu próximo trabajo <span>empieza aquí.</span></h1>
+				<p class="hero-text">Busca oportunidades verificables en tu ciudad, sin cuentas y sin complicaciones.</p>
+			</div>
+			<div class="hero-stamp" aria-hidden="true"><span>19</span><small>países<br>conectados</small></div>
+		</section>
+
+		<section class="search-panel" aria-labelledby="search-title">
+			<div class="section-heading">
+				<div>
+					<p class="eyebrow">Encuentra tu oportunidad</p>
+					<h2 id="search-title">Buscar empleos</h2>
+				</div>
+				<span class="result-count" id="result-count" aria-live="polite">Cargando empleos...</span>
+			</div>
+			<form id="search-form" class="search-form">
+				<label>
+					<span>País</span>
+					<select id="country" name="country">
+						<option value="sv">🇸🇻 El Salvador</option>
+						<option value="gt">🇬🇹 Guatemala</option>
+						<option value="hn">🇭🇳 Honduras</option>
+						<option value="mx">🇲🇽 México</option>
+						<option value="bz">🇧🇿 Belice</option>
+						<option value="cr">🇨🇷 Costa Rica</option>
+						<option value="pa">🇵🇦 Panamá</option>
+						<option value="co">🇨🇴 Colombia</option>
+						<option value="ve">🇻🇪 Venezuela</option>
+						<option value="ec">🇪🇨 Ecuador</option>
+						<option value="pe">🇵🇪 Perú</option>
+						<option value="bo">🇧🇴 Bolivia</option>
+						<option value="py">🇵🇾 Paraguay</option>
+						<option value="uy">🇺🇾 Uruguay</option>
+						<option value="ar">🇦🇷 Argentina</option>
+						<option value="cl">🇨🇱 Chile</option>
+						<option value="br">🇧🇷 Brasil</option>
+						<option value="do">🇩🇴 Rep. Dominicana</option>
+						<option value="cu">🇨🇺 Cuba</option>
+					</select>
+				</label>
+				<label>
+					<span>Ciudad</span>
+					<input id="city" name="city" type="search" placeholder="Ej: San Salvador">
+				</label>
+				<label>
+					<span>Palabra clave</span>
+					<input id="keyword" name="keyword" type="search" placeholder="Ej: motorista, cajero">
+				</label>
+				<label>
+					<span>Modalidad</span>
+					<select id="type" name="type">
+						<option value="">Todas las modalidades</option>
+						<option value="presencial">Presencial</option>
+						<option value="remoto">Remoto</option>
+						<option value="hibrido">Híbrido</option>
+					</select>
+				</label>
+				<button class="search-button" type="submit"><span aria-hidden="true">⌕</span> Buscar empleos</button>
+			</form>
+			<p class="data-note"><span class="status-dot"></span> Datos abiertos y gratuitos · Actualizados por la comunidad</p>
+		</section>
+
+		<section class="countries" aria-labelledby="countries-title">
+			<div class="section-heading compact">
+				<div>
+					<p class="eyebrow">Explora por región</p>
+					<h2 id="countries-title">Oportunidades en LATAM</h2>
+				</div>
+				<span class="country-total">19 países</span>
+			</div>
+			<div class="country-grid" id="country-grid"></div>
+		</section>
+
+		<section class="jobs" aria-labelledby="jobs-title">
+			<div class="section-heading compact">
+				<div>
+					<p class="eyebrow">Resultados para ti</p>
+					<h2 id="jobs-title">Empleos destacados</h2>
+				</div>
+				<button class="clear-button" id="clear-filters" type="button">Limpiar filtros</button>
+			</div>
+			<div id="job-list" class="job-list" aria-live="polite"></div>
+		</section>
+	</main>
+
+	<footer class="site-footer"><span>Empleo SOS</span><span>Hecho para conectar talento y oportunidades en LATAM.</span></footer>
+	<script src="app.js"></script>
 </body>
 </html>

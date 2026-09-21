@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "Motorista de reparto",
+    "company": "Logística Centroamérica",
+    "city": "San Salvador",
+    "type": "presencial",
+    "salary": "$450 - $550 / mes",
+    "description": "Entrega de pedidos en la zona metropolitana. Licencia vigente.",
+    "date": "2026-09-18",
+    "contact": "talento@logisticaca.example"
+  },
+  {
+    "id": 2,
+    "title": "Cajero / atención al cliente",
+    "company": "Mercado La Colmena",
+    "city": "Santa Tecla",
+    "type": "presencial",
+    "salary": "$400 - $475 / mes",
+    "description": "Turnos rotativos, manejo de caja y servicio al cliente.",
+    "date": "2026-09-17",
+    "contact": "empleos@lac olmena.example"
+  },
+  {
+    "id": 3,
+    "title": "Asistente virtual bilingüe",
+    "company": "Nube Solutions",
+    "city": "San Salvador",
+    "type": "remoto",
+    "salary": "$650 - $800 / mes",
+    "description": "Organización de agenda y soporte por correo en español e inglés.",
+    "date": "2026-09-16",
+    "contact": "jobs@nube.example"
+  },
+  {
+    "id": 4,
+    "title": "Auxiliar de bodega",
+    "company": "Distribuidora El Roble",
+    "city": "Soyapango",
+    "type": "presencial",
+    "salary": "$425 / mes",
+    "description": "Recepción, inventario y despacho de productos.",
+    "date": "2026-09-15",
+    "contact": "rrhh@elroble.example"
+  },
+  {
+    "id": 5,
+    "title": "Diseñador gráfico junior",
+    "company": "Estudio Norte",
+    "city": "Antiguo Cuscatlán",
+    "type": "hibrido",
+    "salary": "$700 - $900 / mes",
+    "description": "Piezas para redes sociales y campañas digitales.",
+    "date": "2026-09-14",
+    "contact": "hola@estudionorte.example"
+  },
+  {
+    "id": 6,
+    "title": "Ejecutivo de ventas",
+    "company": "Conecta Telecom",
+    "city": "San Miguel",
+    "type": "presencial",
+    "salary": "$400 + comisiones",
+    "description": "Prospección y atención de clientes para servicios de internet.",
+    "date": "2026-09-13",
+    "contact": "ventas@conecta.example"
+  },
+  {
+    "id": 7,
+    "title": "Redactor de contenidos",
+    "company": "Punto Digital",
+    "city": "Santa Ana",
+    "type": "remoto",
+    "salary": "$600 - $750 / mes",
+    "description": "Redacción de artículos y contenidos para marcas locales.",
+    "date": "2026-09-12",
+    "contact": "equipo@puntodigital.example"
+  },
+  {
+    "id": 8,
+    "title": "Cocinero de línea",
+    "company": "Casa Verde Café",
+    "city": "La Libertad",
+    "type": "presencial",
+    "salary": "$500 / mes",
+    "description": "Preparación de menú y apoyo en inventario de cocina.",
+    "date": "2026-09-11",
+    "contact": "cocina@casaverde.example"
+  },
+  {
+    "id": 9,
+    "title": "Soporte técnico remoto",
+    "company": "TecniHelp",
+    "city": "San Salvador",
+    "type": "remoto",
+    "salary": "$700 - $850 / mes",
+    "description": "Atención de tickets y resolución de incidencias básicas.",
+    "date": "2026-09-10",
+    "contact": "soporte@tecnihelp.example"
+  },
+  {
+    "id": 10,
+    "title": "Promotor de marca",
+    "company": "Impulso Creativo",
+    "city": "Usulután",
+    "type": "presencial",
+    "salary": "$450 + bonos",
+    "description": "Activaciones de marca y contacto directo con consumidores.",
+    "date": "2026-09-09",
+    "contact": "personas@impulso.example"
+  }
+]
