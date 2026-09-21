@@ -28,7 +28,14 @@ function renderCountries() {
 }
 
 function formatDate(date) {
+  if (!date) return "Fecha no disponible";
   return new Intl.DateTimeFormat("es", { day: "numeric", month: "short" }).format(new Date(date));
+}
+
+function escapeHtml(value) {
+  return String(value ?? "").replace(/[&<>'"]/g, (character) => ({
+    "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", "\"": "&quot;"
+  }[character]));
 }
 
 function renderJobs() {
@@ -36,16 +43,16 @@ function renderJobs() {
   const keyword = elements.keyword.value.trim().toLowerCase();
   const type = elements.type.value;
   const jobs = state.jobs.filter((job) => {
-    const searchable = `${job.title} ${job.company} ${job.description}`.toLowerCase();
+    const searchable = `${job.title} ${job.company} ${job.city}`.toLowerCase();
     return (!city || job.city.toLowerCase().includes(city)) && (!keyword || searchable.includes(keyword)) && (!type || job.type === type);
   });
   elements.count.textContent = `${jobs.length} ${jobs.length === 1 ? "empleo encontrado" : "empleos encontrados"}`;
   elements.list.innerHTML = jobs.length ? jobs.map((job) => `
     <article class="job-card">
-      <div><div class="job-top"><span class="job-type">${job.type}</span><span class="company">${job.company}</span></div>
-      <h3>${job.title}</h3><p class="company">${job.description}</p>
-      <div class="job-meta"><span>${job.city}</span><span>${job.salary}</span></div></div>
-      <div class="job-bottom"><span>Publicado ${formatDate(job.date)}</span><a class="apply-link" href="mailto:${job.contact}" aria-label="Aplicar a ${job.title}">Aplicar &rarr;</a></div>
+      <div><div class="job-top"><span class="job-type">${escapeHtml(job.type || "modalidad no indicada")}</span><span class="company">${escapeHtml(job.company)}</span></div>
+      <h3>${escapeHtml(job.title)}</h3><p class="company">${escapeHtml(job.description || "Consulta los detalles de la oferta en la fuente original.")}</p>
+      <div class="job-meta"><span>${escapeHtml(job.city)}</span><span>${escapeHtml(job.salary || "Salario no indicado")}</span></div></div>
+      <div class="job-bottom"><span>Publicado ${formatDate(job.date)}</span><a class="apply-link" href="${escapeHtml(job.source || "#")}" target="_blank" rel="noopener noreferrer" aria-label="Ver ${escapeHtml(job.title)}">Ver oferta &rarr;</a></div>
     </article>`).join("") : `<div class="empty-state">No encontramos empleos con esos filtros. Prueba otra ciudad o palabra clave.</div>`;
 }
 
