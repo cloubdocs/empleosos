@@ -1,13 +1,5 @@
 [
   {
-    "title": "Productor de Ventas de Seguros P&C Licenciado - Híbrido/Remoto",
-    "company": "Allstate Insurance Agency - John Scalise",
-    "city": "Roswell, GA",
-    "type": "remoto",
-    "whatsapp_link": "",
-    "source": "https://jooble.org/jdp/-6851096652981055920"
-  },
-  {
     "title": "Asesor de Vacaciones Remoto - Ventas de Viajes",
     "company": "True Adventure Travel",
     "city": "Arlington, VA",
@@ -16,20 +8,20 @@
     "source": "https://jooble.org/jdp/-7837077499318872234"
   },
   {
+    "title": "Productor de Ventas de Seguros P&C Licenciado - Híbrido/Remoto",
+    "company": "Allstate Insurance Agency - John Scalise",
+    "city": "Roswell, GA",
+    "type": "remoto",
+    "whatsapp_link": "",
+    "source": "https://jooble.org/jdp/-6851096652981055920"
+  },
+  {
     "title": "Docente Virtual de Finanzas Personales y Ventas (Remoto)",
     "company": "Aprende Institute",
     "city": "Miami, FL",
     "type": "remoto",
     "whatsapp_link": "",
     "source": "https://jooble.org/jdp/8346482542119346937"
-  },
-  {
-    "title": "Office Clerk Shipping and Receiving - Auxiliar de Oficina de Envíos y Recepciones",
-    "company": "Falcon Farms",
-    "city": "Remote",
-    "type": "",
-    "whatsapp_link": "",
-    "source": "https://jooble.org/jdp/-8459302480315132122"
   },
   {
     "title": "Apoyo de Ventas",
@@ -46,6 +38,14 @@
     "type": "",
     "whatsapp_link": "",
     "source": "https://jooble.org/jdp/8368642129401816016"
+  },
+  {
+    "title": "Office Clerk Shipping & Receiving - Auxiliar de Oficina de Envíos y Recepciones",
+    "company": "Kent Place School",
+    "city": "Coppell, TX",
+    "type": "",
+    "whatsapp_link": "",
+    "source": "https://jooble.org/jdp/-6137846123101583915"
   },
   {
     "title": "Agente de Soporte para Viajeros",
@@ -72,20 +72,20 @@
     "source": "https://jooble.org/jdp/-5486239117927619073"
   },
   {
-    "title": "Consultor de Ventas y Servicio",
-    "company": "Insight Communications",
-    "city": "Puerto Rico",
-    "type": "",
-    "whatsapp_link": "",
-    "source": "https://jooble.org/jdp/-3641407292481959941"
-  },
-  {
     "title": "Agente de Ventas B2B",
     "company": "INTERNATIONAL H2O INC",
     "city": "Miami, FL",
     "type": "",
     "whatsapp_link": "",
     "source": "https://jooble.org/jdp/991914757125678648"
+  },
+  {
+    "title": "Consultor de Ventas y Servicio",
+    "company": "Insight Communications",
+    "city": "Puerto Rico",
+    "type": "",
+    "whatsapp_link": "",
+    "source": "https://jooble.org/jdp/-3641407292481959941"
   },
   {
     "title": "Asociado de Ventas Location: PR-Paseos-00926 Department: Fitness Consultants",
@@ -98,10 +98,10 @@
   {
     "title": "Consultor de Ventas de Automóviles",
     "company": "Easterns Automotive Group",
-    "city": "Sterling, VA",
+    "city": "Frederick, MD",
     "type": "",
     "whatsapp_link": "",
-    "source": "https://jooble.org/jdp/3543850743932815293"
+    "source": "https://jooble.org/jdp/-5702267213636565427"
   },
   {
     "title": "CONSULTOR DE VENTAS SOLARES - EXPERIENCIA | 1099 POR COMISIÓN",
@@ -162,10 +162,10 @@
   {
     "title": "Copywriter - Remote",
     "company": "YO IT Consulting",
-    "city": "San Jose, CA",
+    "city": "New York, NY",
     "type": "remoto",
     "whatsapp_link": "",
-    "source": "https://jooble.org/jdp/8692235877760216099"
+    "source": "https://jooble.org/jdp/2401706656379225309"
   },
   {
     "title": "Remote Email Copywriter for AI-Powered B2B Tech",
@@ -208,12 +208,12 @@
     "source": "https://jooble.org/jdp/-1745932868973056717"
   },
   {
-    "title": "Virtual Assistant / BDR Outbound",
-    "company": "Workana",
-    "city": "United States",
-    "type": "remoto",
+    "title": "Profesor/a Business Development y Ventas - WF",
+    "company": "Northbridge University",
+    "city": "Puerto Rico",
+    "type": "",
     "whatsapp_link": "",
-    "source": "https://jooble.org/jdp/6460154698174686247"
+    "source": "https://jooble.org/jdp/-7164589299802850077"
   },
   {
     "title": "Direct Response Copywriter",
@@ -224,19 +224,19 @@
     "source": "https://jooble.org/jdp/2050910018343137258"
   },
   {
-    "title": "Profesor/a Business Development y Ventas - WF",
-    "company": "Northbridge University",
-    "city": "Puerto Rico",
-    "type": "",
-    "whatsapp_link": "",
-    "source": "https://jooble.org/jdp/-7164589299802850077"
-  },
-  {
     "title": "Remote Customer Service Representative",
     "company": "Call Control, LLC",
     "city": "Macon, GA",
     "type": "remoto",
     "whatsapp_link": "",
     "source": "https://jooble.org/jdp/-6723106060845610679"
+  },
+  {
+    "title": "Asesor de Ventas (Sales Advisor)",
+    "company": "Majority USA, Llc.",
+    "city": "New York, NY",
+    "type": "",
+    "whatsapp_link": "",
+    "source": "https://jooble.org/jdp/4920256021265832411"
   }
 ]
