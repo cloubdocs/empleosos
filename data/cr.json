@@ -50,6 +50,14 @@
   {
     "title": "Asesor de Vacaciones Remoto - Ventas de Viajes",
     "company": "True Adventure Travel",
+    "city": "Los Angeles, CA",
+    "type": "remoto",
+    "whatsapp_link": "",
+    "source": "https://jooble.org/jdp/-6114889864100978548"
+  },
+  {
+    "title": "Asesor de Vacaciones Remoto - Ventas de Viajes",
+    "company": "True Adventure Travel",
     "city": "Arlington, VA",
     "type": "remoto",
     "whatsapp_link": "",
@@ -64,14 +72,6 @@
     "source": "https://jooble.org/jdp/-6851096652981055920"
   },
   {
-    "title": "Asesor de Vacaciones Remoto - Ventas de Viajes",
-    "company": "True Adventure Travel",
-    "city": "Los Angeles, CA",
-    "type": "remoto",
-    "whatsapp_link": "",
-    "source": "https://jooble.org/jdp/-6114889864100978548"
-  },
-  {
     "title": "Ejecutivo de Ventas Remoto — Crecimiento y Flexibilidad",
     "company": "Oberstaff",
     "city": "New York, NY",
@@ -80,20 +80,20 @@
     "source": "https://jooble.org/jdp/5437829562834210567"
   },
   {
-    "title": "Ingeniero(a) de Ventas (Sector Minero)",
-    "company": "Nearshore Business Solutions",
-    "city": "Adell, WI",
-    "type": "remoto",
-    "whatsapp_link": "",
-    "source": "https://jooble.org/jdp/1881757717398973763"
-  },
-  {
     "title": "Comercial / Administrativo / Ventas | Chile",
     "company": "STANDBY.es | Seleccin de Personal",
     "city": "Albemarle, NC",
     "type": "remoto",
     "whatsapp_link": "",
     "source": "https://jooble.org/jdp/5561057050336775711"
+  },
+  {
+    "title": "Ingeniero(a) de Ventas (Sector Minero)",
+    "company": "Nearshore Business Solutions",
+    "city": "Adell, WI",
+    "type": "remoto",
+    "whatsapp_link": "",
+    "source": "https://jooble.org/jdp/1881757717398973763"
   },
   {
     "title": "Docente Virtual de Finanzas Personales y Ventas (Remoto)",
@@ -162,10 +162,10 @@
   {
     "title": "Consultor de Ventas de Automóviles",
     "company": "Easterns Automotive Group",
-    "city": "Laurel, MD",
+    "city": "Alexandria, VA",
     "type": "",
     "whatsapp_link": "",
-    "source": "https://jooble.org/jdp/7832847540015146221"
+    "source": "https://jooble.org/jdp/8340639931178435900"
   },
   {
     "title": "Bilingual Client Advisor",
@@ -176,20 +176,20 @@
     "source": "https://jooble.org/jdp/-9087190956555904018"
   },
   {
-    "title": "Agente de Ventas B2B",
-    "company": "INTERNATIONAL H2O INC",
-    "city": "Miami, FL",
-    "type": "",
-    "whatsapp_link": "",
-    "source": "https://jooble.org/jdp/6615950857767549734"
-  },
-  {
     "title": "Office Clerk Shipping & Receiving - Auxiliar de Oficina de Envíos y Recepciones",
     "company": "Kent Place School",
     "city": "Coppell, TX",
     "type": "",
     "whatsapp_link": "",
     "source": "https://jooble.org/jdp/-6137846123101583915"
+  },
+  {
+    "title": "Agente de Ventas B2B",
+    "company": "INTERNATIONAL H2O INC",
+    "city": "Miami, FL",
+    "type": "",
+    "whatsapp_link": "",
+    "source": "https://jooble.org/jdp/6615950857767549734"
   },
   {
     "title": "Consultor de Cuentas Corporativas: Ventas Estratégicas Globales",
@@ -208,14 +208,6 @@
     "source": "https://jooble.org/jdp/-6489547269266728221"
   },
   {
-    "title": "Client Benefits Advisor -remote",
-    "company": "HirePath Network",
-    "city": "Oregon State",
-    "type": "remoto",
-    "whatsapp_link": "",
-    "source": "https://jooble.org/jdp/1554487175137686638"
-  },
-  {
     "title": "Agente de Seguros",
     "company": "Kc Wealth Management Llc",
     "city": "Katy, TX",
@@ -224,19 +216,27 @@
     "source": "https://jooble.org/jdp/1257380505580827466"
   },
   {
-    "title": "Agente de Seguros - Ventas, Servicio al Cliente",
-    "company": "Freeway Insurance Services America, LLC",
-    "city": "Baytown, TX",
-    "type": "",
-    "whatsapp_link": "",
-    "source": "https://jooble.org/jdp/-1357563626786240915"
-  },
-  {
     "title": "Water System Sales: Ventas de Purificación de Agua",
     "company": "Apollotek International Inc",
     "city": "Riverside, CA",
     "type": "",
     "whatsapp_link": "",
     "source": "https://jooble.org/jdp/-1137959808179517187"
+  },
+  {
+    "title": "Auxiliar Administrativo",
+    "company": "MENA",
+    "city": "New York, NY",
+    "type": "remoto",
+    "whatsapp_link": "",
+    "source": "https://jooble.org/jdp/-191323280330433553"
+  },
+  {
+    "title": "Especialista en Renovaciones - Remoto",
+    "company": "MuyRemoto",
+    "city": "New York, NY",
+    "type": "remoto",
+    "whatsapp_link": "",
+    "source": "https://jooble.org/jdp/528116461096048480"
   }
 ]
