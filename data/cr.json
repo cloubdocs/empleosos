@@ -24,20 +24,20 @@
     "source": "https://jooble.org/jdp/-6299715377388228305"
   },
   {
-    "title": "Líder de Ventas y Desarrollo en Aviación Remoto",
-    "company": "Banner",
-    "city": "Miami, FL",
-    "type": "remoto",
-    "whatsapp_link": "",
-    "source": "https://jooble.org/jdp/7048230132277799822"
-  },
-  {
     "title": "Asesor de Vacaciones - Ventas de Viajes Remoto",
     "company": "True Adventure Travel",
     "city": "San Francisco, CA",
     "type": "remoto",
     "whatsapp_link": "",
     "source": "https://jooble.org/jdp/-412042802435609338"
+  },
+  {
+    "title": "Líder de Ventas y Desarrollo en Aviación Remoto",
+    "company": "Banner",
+    "city": "Miami, FL",
+    "type": "remoto",
+    "whatsapp_link": "",
+    "source": "https://jooble.org/jdp/7048230132277799822"
   },
   {
     "title": "Asesor de Vacaciones Remoto - Ventas de Viajes",
@@ -112,6 +112,14 @@
     "source": "https://jooble.org/jdp/9044278846479364837"
   },
   {
+    "title": "Asesor Senior de Ventas EdTech LATAM - Remoto y Alto Ingreso",
+    "company": "TripleTen",
+    "city": "New York, NY",
+    "type": "remoto",
+    "whatsapp_link": "",
+    "source": "https://jooble.org/jdp/-570621421725102302"
+  },
+  {
     "title": "Ejecutiva de Ventas Online",
     "company": "BELLME CLINIC",
     "city": "New York, NY",
@@ -134,14 +142,6 @@
     "type": "remoto",
     "whatsapp_link": "",
     "source": "https://jooble.org/jdp/3438196719831717511"
-  },
-  {
-    "title": "Asesor Senior de Ventas EdTech LATAM - Remoto y Alto Ingreso",
-    "company": "TripleTen",
-    "city": "New York, NY",
-    "type": "remoto",
-    "whatsapp_link": "",
-    "source": "https://jooble.org/jdp/-570621421725102302"
   },
   {
     "title": "Closer de Ventas Online - Fitness para Mujeres",
@@ -208,14 +208,6 @@
     "source": "https://jooble.org/jdp/-2001382692796349845"
   },
   {
-    "title": "Agente de Seguros - Ventas, Servicio al Cliente",
-    "company": "Freeway Insurance Services America, LLC",
-    "city": "Baytown, TX",
-    "type": "",
-    "whatsapp_link": "",
-    "source": "https://jooble.org/jdp/-1357563626786240915"
-  },
-  {
     "title": "Copywriter - Haircare Industry - Remote",
     "company": "Remote Work & Working at Home Jobs",
     "city": "New York, NY",
@@ -224,19 +216,27 @@
     "source": "https://jooble.org/jdp/-6473252093447258642"
   },
   {
-    "title": "Agente de Ventas B2B",
-    "company": "INTERNATIONAL H2O INC",
-    "city": "Miami, FL",
-    "type": "",
-    "whatsapp_link": "",
-    "source": "https://jooble.org/jdp/6615950857767549734"
-  },
-  {
     "title": "Consultor de Ventas",
     "company": "TCC, Verizon Authorized Retailer",
-    "city": "Trenton, NJ",
+    "city": "Philadelphia, PA",
     "type": "",
     "whatsapp_link": "",
-    "source": "https://jooble.org/jdp/-2649497093952056691"
+    "source": "https://jooble.org/jdp/1131812477546745111"
+  },
+  {
+    "title": "Copywriter - Staffing Industry - Remote",
+    "company": "Remote Work & Working at Home Jobs",
+    "city": "New York, NY",
+    "type": "remoto",
+    "whatsapp_link": "",
+    "source": "https://jooble.org/jdp/4930062947664925807"
+  },
+  {
+    "title": "Copywriter",
+    "company": "The Keller Group",
+    "city": "Phoenix, AZ",
+    "type": "",
+    "whatsapp_link": "",
+    "source": "https://jooble.org/jdp/-3014813235127039882"
   }
 ]
