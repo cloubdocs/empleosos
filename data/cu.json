@@ -24,14 +24,6 @@
     "source": "https://jooble.org/jdp/644964101579789259"
   },
   {
-    "title": "Líder de Centro de Llamadas Remoto - Ventas y Citas",
-    "company": "Home ranger services",
-    "city": "New York, NY",
-    "type": "remoto",
-    "whatsapp_link": "",
-    "source": "https://jooble.org/jdp/7618905519603455502"
-  },
-  {
     "title": "Ejecutivo de Cuentas - Ventas OOH (Híbrido/Remoto)",
     "company": "THE GREAT OUTDOOR LLC",
     "city": "Los Angeles, CA",
@@ -46,14 +38,6 @@
     "type": "remoto",
     "whatsapp_link": "",
     "source": "https://jooble.org/jdp/7048230132277799822"
-  },
-  {
-    "title": "Asesor de Vacaciones - Ventas de Viajes Remoto",
-    "company": "True Adventure Travel",
-    "city": "San Francisco, CA",
-    "type": "remoto",
-    "whatsapp_link": "",
-    "source": "https://jooble.org/jdp/-412042802435609338"
   },
   {
     "title": "Asesor de Vacaciones Remoto - Ventas de Viajes",
@@ -72,22 +56,6 @@
     "source": "https://jooble.org/jdp/-2606726465599611646"
   },
   {
-    "title": "Asesor de Vacaciones Remoto - Ventas de Viajes",
-    "company": "True Adventure Travel",
-    "city": "Arlington, VA",
-    "type": "remoto",
-    "whatsapp_link": "",
-    "source": "https://jooble.org/jdp/-7837077499318872234"
-  },
-  {
-    "title": "Productor de Ventas de Seguros P&C Licenciado - Híbrido/Remoto",
-    "company": "Allstate Insurance Agency - John Scalise",
-    "city": "Roswell, GA",
-    "type": "remoto",
-    "whatsapp_link": "",
-    "source": "https://jooble.org/jdp/-6851096652981055920"
-  },
-  {
     "title": "Ejecutivo de Ventas Remoto — Crecimiento y Flexibilidad",
     "company": "Oberstaff",
     "city": "New York, NY",
@@ -96,12 +64,20 @@
     "source": "https://jooble.org/jdp/5437829562834210567"
   },
   {
-    "title": "Comercial / Administrativo / Ventas | Colombia",
+    "title": "Asesor de Vacaciones Remoto - Ventas de Viajes",
+    "company": "True Adventure Travel",
+    "city": "Arlington, VA",
+    "type": "remoto",
+    "whatsapp_link": "",
+    "source": "https://jooble.org/jdp/-7837077499318872234"
+  },
+  {
+    "title": "Comercial / Administrativo / Ventas | Galicia",
     "company": "STANDBY.es | Seleccin de Personal",
     "city": "Alloway, NJ",
     "type": "remoto",
     "whatsapp_link": "",
-    "source": "https://jooble.org/jdp/-2088108302275120003"
+    "source": "https://jooble.org/jdp/-725024869160586455"
   },
   {
     "title": "Docente Virtual de Finanzas Personales y Ventas (Remoto)",
@@ -136,14 +112,6 @@
     "source": "https://jooble.org/jdp/-570621421725102302"
   },
   {
-    "title": "Closer de Ventas Online - Fitness para Mujeres",
-    "company": "Jordan Caporaletti",
-    "city": "New York, NY",
-    "type": "remoto",
-    "whatsapp_link": "",
-    "source": "https://jooble.org/jdp/7306493518576576997"
-  },
-  {
     "title": "Asesor call center ventas comision sin techo",
     "company": "Aprende",
     "city": "New York, NY",
@@ -166,6 +134,14 @@
     "type": "remoto",
     "whatsapp_link": "",
     "source": "https://jooble.org/jdp/3438196719831717511"
+  },
+  {
+    "title": "Closer de Ventas Online - Fitness para Mujeres",
+    "company": "Jordan Caporaletti",
+    "city": "New York, NY",
+    "type": "remoto",
+    "whatsapp_link": "",
+    "source": "https://jooble.org/jdp/7306493518576576997"
   },
   {
     "title": "Telesales Agent French Speaker",
@@ -192,36 +168,12 @@
     "source": "https://jooble.org/jdp/-4861805696058498855"
   },
   {
-    "title": "Consultor de Cuentas Corporativas: Ventas Estratégicas Globales",
-    "company": "Jobleads-US",
-    "city": "Nashville, TN",
-    "type": "",
-    "whatsapp_link": "",
-    "source": "https://jooble.org/jdp/-2287679368608203422"
-  },
-  {
     "title": "Especialista en Arrendamiento Inmobiliario / Agente de Ventas",
     "company": "PMI Integrity Properties",
     "city": "New York, NY",
     "type": "",
     "whatsapp_link": "",
     "source": "https://jooble.org/jdp/-244769924826950594"
-  },
-  {
-    "title": "Consultor de Ventas: Crecimiento y Bonificaciones",
-    "company": "Kimbrell\\\\'s Furniture",
-    "city": "Monroe, NC",
-    "type": "",
-    "whatsapp_link": "",
-    "source": "https://jooble.org/jdp/-2001382692796349845"
-  },
-  {
-    "title": "Consultor de Seguros: Impulsa Ventas de Auto, Hogar y Salud",
-    "company": "Freeway Insurance Services America, LLC",
-    "city": "Corona, CA",
-    "type": "",
-    "whatsapp_link": "",
-    "source": "https://jooble.org/jdp/9216749590577484483"
   },
   {
     "title": "Consultor de Diseño Residencial — Ventas a Domicilio",
@@ -232,11 +184,59 @@
     "source": "https://jooble.org/jdp/-8045538632228210475"
   },
   {
+    "title": "Consultor de Ventas: Crecimiento y Bonificaciones",
+    "company": "Kimbrell\\\\'s Furniture",
+    "city": "Monroe, NC",
+    "type": "",
+    "whatsapp_link": "",
+    "source": "https://jooble.org/jdp/-2001382692796349845"
+  },
+  {
     "title": "Agente de Seguros",
     "company": "Kc Wealth Management Llc",
     "city": "Katy, TX",
     "type": "remoto",
     "whatsapp_link": "",
     "source": "https://jooble.org/jdp/1257380505580827466"
+  },
+  {
+    "title": "Agente/productor de ventas de seguros",
+    "company": "JAMES C BAKER INC",
+    "city": "West Mifflin, PA",
+    "type": "",
+    "whatsapp_link": "",
+    "source": "https://jooble.org/jdp/-1350962733229912646"
+  },
+  {
+    "title": "Agente de Seguros - Ventas, Servicio al Cliente",
+    "company": "Freeway Insurance Services America, LLC",
+    "city": "Baytown, TX",
+    "type": "",
+    "whatsapp_link": "",
+    "source": "https://jooble.org/jdp/-1357563626786240915"
+  },
+  {
+    "title": "Copywriter - Haircare Industry - Remote",
+    "company": "Remote Work & Working at Home Jobs",
+    "city": "New York, NY",
+    "type": "remoto",
+    "whatsapp_link": "",
+    "source": "https://jooble.org/jdp/-6473252093447258642"
+  },
+  {
+    "title": "Consultor SAP SD | EDI & Facturación — 100% Remoto",
+    "company": "Zemsania",
+    "city": "New York, NY",
+    "type": "remoto",
+    "whatsapp_link": "",
+    "source": "https://jooble.org/jdp/8826214677584608899"
+  },
+  {
+    "title": "Copywriter - Ursus - Remote",
+    "company": "Remote Work & Working at Home Jobs",
+    "city": "New York, NY",
+    "type": "remoto",
+    "whatsapp_link": "",
+    "source": "https://jooble.org/jdp/8227099145901124338"
   }
 ]
