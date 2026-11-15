@@ -56,20 +56,20 @@
     "source": "https://jooble.org/jdp/3392512718456108944"
   },
   {
-    "title": "Ejecutivo/a de Ventas de Productos Financieros Remoto",
-    "company": "RIPLEY",
-    "city": "Sacramento, CA",
-    "type": "remoto",
-    "whatsapp_link": "",
-    "source": "https://jooble.org/jdp/115012935256912801"
-  },
-  {
     "title": "Asesor/a de Ventas Remoto — Crecimiento y Bonos Semanales",
     "company": "Globe Life AIL - McQuade Organization",
     "city": "Cicero, IL",
     "type": "remoto",
     "whatsapp_link": "",
     "source": "https://jooble.org/jdp/6575516770765922082"
+  },
+  {
+    "title": "Ejecutivo/a de Ventas de Productos Financieros Remoto",
+    "company": "RIPLEY",
+    "city": "Sacramento, CA",
+    "type": "remoto",
+    "whatsapp_link": "",
+    "source": "https://jooble.org/jdp/115012935256912801"
   },
   {
     "title": "Ejecutivo de Cuentas - Ventas OOH (Híbrido/Remoto)",
@@ -128,20 +128,20 @@
     "source": "https://jooble.org/jdp/3438196719831717511"
   },
   {
-    "title": "Asesor Senior de Ventas EdTech LATAM - Remoto y Alto Ingreso",
-    "company": "TripleTen",
-    "city": "New York, NY",
-    "type": "remoto",
-    "whatsapp_link": "",
-    "source": "https://jooble.org/jdp/-570621421725102302"
-  },
-  {
     "title": "Ventas de Seguros a Distancia - Presidio, TX- Oportunidades de Crecimiento Profesional",
     "company": "Globe Life AIL - McQuade Organization",
     "city": "Presidio, TX",
     "type": "remoto",
     "whatsapp_link": "",
     "source": "https://jooble.org/jdp/4301360787513751468"
+  },
+  {
+    "title": "Asesor Senior de Ventas EdTech LATAM - Remoto y Alto Ingreso",
+    "company": "TripleTen",
+    "city": "New York, NY",
+    "type": "remoto",
+    "whatsapp_link": "",
+    "source": "https://jooble.org/jdp/-570621421725102302"
   },
   {
     "title": "Closer de Ventas Online - Fitness para Mujeres",
@@ -186,26 +186,10 @@
   {
     "title": "Consultor(a) de Ventas",
     "company": "Infopaginas",
-    "city": "Puerto Rico",
+    "city": "San Juan, TX",
     "type": "",
     "whatsapp_link": "",
-    "source": "https://jooble.org/jdp/-5183435754269460347"
-  },
-  {
-    "title": "Consultor de Ventas Minoristas — bedMATCH y Crecimiento",
-    "company": "Mattress Warehouse",
-    "city": "Franklin, TN",
-    "type": "",
-    "whatsapp_link": "",
-    "source": "https://jooble.org/jdp/3354694243070990679"
-  },
-  {
-    "title": "Consultor de Ventas",
-    "company": "TCC Verizon Authorized Retailer",
-    "city": "New York, NY",
-    "type": "",
-    "whatsapp_link": "",
-    "source": "https://jooble.org/jdp/8447571861504935657"
+    "source": "https://jooble.org/jdp/-6489547269266728221"
   },
   {
     "title": "Appointment Setter / Cold Caller en Español -- Remoto",
@@ -214,14 +198,6 @@
     "type": "remoto",
     "whatsapp_link": "",
     "source": "https://jooble.org/jdp/-1423318212294685553"
-  },
-  {
-    "title": "Consultor Bilingüe de Arrendamiento y Ventas: Vida Premium",
-    "company": "Cortland",
-    "city": "Tampa, FL",
-    "type": "",
-    "whatsapp_link": "",
-    "source": "https://jooble.org/jdp/-2189460755259299238"
   },
   {
     "title": "Consultor de Ventas: Crecimiento y Bonificaciones",
@@ -238,5 +214,29 @@
     "type": "",
     "whatsapp_link": "",
     "source": "https://jooble.org/jdp/9216749590577484483"
+  },
+  {
+    "title": "Consultor de Arrendamiento y Ventas, Bilingüe-Área de Tampa Grande",
+    "company": "Cortland",
+    "city": "Tampa, FL",
+    "type": "",
+    "whatsapp_link": "",
+    "source": "https://jooble.org/jdp/-5262264249089850050"
+  },
+  {
+    "title": "Consultor Bilingüe de Arrendamiento y Ventas: Vida Premium",
+    "company": "Cortland",
+    "city": "Tampa, FL",
+    "type": "",
+    "whatsapp_link": "",
+    "source": "https://jooble.org/jdp/-2189460755259299238"
+  },
+  {
+    "title": "Consultor de Ventas",
+    "company": "TCC Verizon Authorized Retailer",
+    "city": "New York, NY",
+    "type": "",
+    "whatsapp_link": "",
+    "source": "https://jooble.org/jdp/8447571861504935657"
   }
 ]
